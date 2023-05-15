@@ -52,7 +52,7 @@
                                 <input type="password" class="form-control" name="password" id="password">
                             </div>
                             <div>
-                                <button type="button" class="btn btn-info mt-2 register">Register</button>
+                                <button type="button" class="btn btn-primary mt-2 register">Register</button>
                             </div>
                         </form>
                     </div>
