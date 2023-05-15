@@ -24,7 +24,7 @@
     ?>
     <header class="bg-info">
         <div class="container">
-            <h1 class="text-center text-white pt-2">Public Chat Room</h1>
+            <h1 class="text-center text-white pt-2 mt-1">Public Chat Room</h1>
             <a class="text-white" href="login.php">Log Out</a>
         </div>
     </header>
