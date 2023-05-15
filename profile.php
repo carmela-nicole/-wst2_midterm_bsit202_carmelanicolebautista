@@ -22,7 +22,7 @@
             header('login.php');
         }
     ?>
-    <header class="bg-info">
+    <header class="bg-warning">
         <div class="container">
             <h1 class="text-center text-white pt-2 mt-1">Public Chat Room</h1>
             <a class="text-white" href="login.php">Log Out</a>
